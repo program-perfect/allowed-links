@@ -1,6 +1,6 @@
 {
   "url": "https://mvd-beta.vercel.app",
-  "allowedDomains": ["vercep.app", "vercel.com"],
+  "allowedDomains": ["mvd-beta.vercel.app"],
   "allowSubdomains": true,
   "requireHttps": false
 }
