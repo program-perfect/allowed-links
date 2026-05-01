@@ -1,6 +1,6 @@
 {
-  "url": "https://mvd-beta.vercel.app",
-  "allowedDomains": ["mvd-beta.vercel.app"],
+  "url": "https://lumin-seven-mu.vercel.app/",
+  "allowedDomains": ["lumin-seven-mu.vercel.app"],
   "allowSubdomains": true,
   "requireHttps": false
 }
